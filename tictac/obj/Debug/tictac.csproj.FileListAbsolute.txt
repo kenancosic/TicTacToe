@@ -1,0 +1,10 @@
+C:\Users\cosic\source\repos\tictac\tictac\bin\Debug\tictac.exe.config
+C:\Users\cosic\source\repos\tictac\tictac\bin\Debug\tictac.exe
+C:\Users\cosic\source\repos\tictac\tictac\bin\Debug\tictac.pdb
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.csprojAssemblyReference.cache
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.Form1.resources
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.Properties.Resources.resources
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.csproj.GenerateResource.cache
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.csproj.CoreCompileInputs.cache
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.exe
+C:\Users\cosic\source\repos\tictac\tictac\obj\Debug\tictac.pdb
